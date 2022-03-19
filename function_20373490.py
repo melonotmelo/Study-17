@@ -1,1 +1,2 @@
-print('My student_id: 20373490')
+import os
+os.system('python function_20373490.py')
